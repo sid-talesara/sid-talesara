@@ -28,9 +28,7 @@
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 
-    <img align="right" alt="Rafa-yoda"
-        src="https://media0.giphy.com/media/3o6Mbpzs2swA5eRQ2s/giphy.gif?cid=ecf05e47j2hk0o359rsand3nikdg9lbgsqnposqgu9tpoomd&rid=giphy.gif&ct=g">
-
+ 
    
 
 
