@@ -1,8 +1,8 @@
 ## 🙋Hey! I am Sid Talesara
 - 👩🎓Engineeering Student learning Web-development
 - ❤️ passionate about learning and creating things that drive change
-- 💡 Back end e Front end.
-- 📫Contate-me no email: siddharthtalesara01@gmail.com
+- 💡 Front End and Learning Backend.
+- 📫Contact me on email: siddharthtalesara01@gmail.com
 <div>
     <a href="https://github.com/sid-talesara">
         <img height="180em"
