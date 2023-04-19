@@ -91,6 +91,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-talesara&layout=compact&langs_count=7&theme=dark" />
 
 </div>
-
+<div>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=sid-talesara.sid-talesara" />
 </div>
