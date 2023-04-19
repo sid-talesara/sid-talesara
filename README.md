@@ -3,6 +3,7 @@
 - ❤️ passionate about learning and creating things that drive change
 - 💡 Front End and Learning Backend.
 - 📫Contact me on email: siddharthtalesara01@gmail.com
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sid-talesara&bg_color=1f1e3e&color=85e0ff&line=2983fa&point=77fbfd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
     <a href="https://github.com/sid-talesara">
         <img height="180em"
