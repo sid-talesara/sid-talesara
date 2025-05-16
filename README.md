@@ -1,16 +1,13 @@
 # 🙋Hey! I am Sid Talesara
 Building AI Agents, Fullstack production application that real businesses use.
 - 💼 Founding Engineer at [Supatest.ai](https://supatest.ai)
-- 🎓 Computer Science Grad
+- 🎓 Computer Science Graduate
 - 🤔 Curious about AI, product building, design & photography.  
 
 
 [//]: <> (--------------Social Icons-------------------)
 
 <div>
-    <a href="mailto:sidtalesara@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
     <a href="https://www.linkedin.com/in/siddharth-talesara" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
